@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I am a Hobby programmer and IT Security Consultant by profession. 
+Also checkout my [landing Page](https://hener.eu) and my [personal Blog](https://hesec.de).
+
+#### Stats
+
+[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickhener&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickhener&theme=nord&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!--
 **patrickhener/patrickhener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
